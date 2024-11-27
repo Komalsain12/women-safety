@@ -49,5 +49,9 @@ Follow these steps to set up and run the application locally:
    git clone https://github.com/komalsain12/women-safety-app.git
    cd women-safety-app
 
+![image](https://github.com/user-attachments/assets/771b257e-5e48-492a-9174-e7280ae40bb7)
+![image](https://github.com/user-attachments/assets/4dd94464-83cc-4365-8195-9b5426f6c6ee)
+![image](https://github.com/user-attachments/assets/cf84c61d-ec11-4511-88bb-878e01ad25dc)
+![image](https://github.com/user-attachments/assets/f49b748d-1a61-4677-90a3-7f8e1b2d54ef)
 
 
