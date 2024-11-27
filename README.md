@@ -43,11 +43,7 @@ Follow these steps to set up and run the application locally:
 - Firebase project configured for authentication and database.  
 - Google Maps API Key.  
 
-### Steps
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/komalsain12/women-safety-app.git
-   cd women-safety-app
+
 
 ![image](https://github.com/user-attachments/assets/771b257e-5e48-492a-9174-e7280ae40bb7)
 ![image](https://github.com/user-attachments/assets/4dd94464-83cc-4365-8195-9b5426f6c6ee)
